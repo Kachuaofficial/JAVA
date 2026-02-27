@@ -19,9 +19,7 @@ public class palindrome {
                 isPalindrome = false;
 
                 break;
-
             }
-
             start++;
 
             end--;
