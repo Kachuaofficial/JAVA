@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="660ec257-7149-4ecb-8d53-446cbe868a1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Arrays/MaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/MergeArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/NegativeElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/SecondMaximumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/StarHollowRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/StarTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/numbertriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/smallCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/FirstAndLastOccurence.class" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/FirstAndLastOccurence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/FirstAndLastOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/FirstAndLastOccurence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Kachuaofficial&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Kachuaofficial/JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;f561fc7e-91f7-462b-b251-46133e04f2a3&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="3ASmIUn0ltwY25QgYJNyfSChgb6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MaxElement.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.RotateArray.executor": "Run",
+    "Application.SecondMaximumElement.executor": "Run",
+    "Application.SumOfElements.executor": "Run",
+    "Application.negativeelements.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="660ec257-7149-4ecb-8d53-446cbe868a1b" name="Changes" comment="" />
+      <created>1772594267801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772594267801</updated>
+    </task>
+    <servers />
+  </component>
+</project>
