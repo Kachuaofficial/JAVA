@@ -1,27 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="660ec257-7149-4ecb-8d53-446cbe868a1b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/MaxElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/MergeArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/NegativeElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/PairSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/SecondMaximumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/SumOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/StarHollowRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/StarTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/numbertriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/patterns/smallCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/FirstAndLastOccurence.class" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/FirstAndLastOccurence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/FirstAndLastOccurence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/FirstAndLastOccurence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/array.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/IdeaProjects/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array2D/SumOfAllColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array2D/SumOfEachRow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array2D/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/Duplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HashMap/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/ReverseNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/basic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/countNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic/pallindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/patterns/KdiffPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arrays/MergeArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/MergeArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Language.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Language.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/Language.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/Language.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/MergeArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/MergeArrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/strings/built_in_datatypes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/strings/built_in_datatypes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/strings/concat_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/strings/concat_string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/strings/integer_to_string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/strings/integer_to_string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/strings/palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/strings/palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/strings/pass_string_to_method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/strings/pass_string_to_method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/strings/print_all_substrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/strings/print_all_substrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/strings/string.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/strings/string.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Language/strings/vowels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Language/strings/vowels.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/built_in_datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/built_in_datatypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/concat_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/concat_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/integer_to_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/integer_to_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/pass_string_to_method.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/pass_string_to_method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/print_all_substrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/print_all_substrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/string.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/vowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/strings/vowels.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +48,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -50,6 +68,10 @@
     &quot;accountId&quot;: &quot;f561fc7e-91f7-462b-b251-46133e04f2a3&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -61,21 +83,74 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayLists.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.CountNoOfVowels.executor": "Run",
+    "Application.Duplicates.executor": "Run",
+    "Application.KdiffPairs.executor": "Run",
     "Application.MaxElement.executor": "Run",
+    "Application.MergeArrays.executor": "Run",
     "Application.ReverseArray.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
     "Application.RotateArray.executor": "Run",
     "Application.SecondMaximumElement.executor": "Run",
+    "Application.SumOfAllColumn.executor": "Run",
+    "Application.SumOfEachRow.executor": "Run",
     "Application.SumOfElements.executor": "Run",
+    "Application.basic.executor": "Run",
+    "Application.countNumbers.executor": "Run",
     "Application.negativeelements.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "show.migrate.to.gradle.popup": "false"
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable",
+    "show.migrate.to.gradle.popup": "false",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="CountNoOfVowels" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings.CountNoOfVowels" />
+      <module name="Language" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CountNoOfVowels" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="660ec257-7149-4ecb-8d53-446cbe868a1b" name="Changes" comment="" />
@@ -83,7 +158,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772594267801</updated>
+      <workItem from="1773597278270" duration="135000" />
+      <workItem from="1773597883950" duration="420000" />
+      <workItem from="1773635851481" duration="4845000" />
+      <workItem from="1773652865639" duration="4245000" />
+      <workItem from="1773686007523" duration="702000" />
+      <workItem from="1773803686578" duration="3373000" />
+      <workItem from="1774336936798" duration="11000" />
+      <workItem from="1774340106027" duration="551000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
